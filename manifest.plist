@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,27 +12,27 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://spaceship.restr.net/storage/Casino.ipa</string>
+					<string>http://spaceship.restr.net/teamcity/repository/download/PokerCity_PokerCityClient_IOS/26780:id/PokerClient_200.zip%21/Casino.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://valueup.360d.ru/test/1.png</string>
+					<string>http://spaceship.restr.net/files/poker_city/icons/PokerCityAppIcon_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://valueup.360d.ru/test/2.png</string>
+					<string>http://spaceship.restr.net/files/poker_city/icons/PokerCityAppIcon_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>play.war.casino.city</string>
+				<string>play.war.poker.city</string>
 				<key>bundle-version</key>
-				<string>1.12</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
