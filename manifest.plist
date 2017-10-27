@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://spaceship.restr.net/teamcity/repository/download/PokerCity_PokerCityClient_IOS/26780:id/PokerClient_200.zip%21/Casino.ipa</string>
+					<string>http://ios:12345@spaceship.restr.net/teamcity/httpAuth/repository/download/PokerCity_PokerCityClient_IOS/26780:id/PokerClient_200.zip%21/Casino.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
